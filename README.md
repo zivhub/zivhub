@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Songzi (尚志) Vong, or you can simply call me Ziv. I currently live in [Shenzhen, China](https://goo.gl/maps/TzpCxj5wBh52EiXg6). For more information, you can check my [blog](https://zivlog.io/).
+
+![](https://komarev.com/ghpvc/?username=zivhub)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zivhub&show_icons=true" alt="my github stats" width="420"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zivhub&layout=compact" alt="my top languages" height="165">
+</p>
