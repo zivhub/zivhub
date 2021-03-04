@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Songzi (尚志) Vong, or you can simply call me Ziv. I currently live in [Shenzhen, China](https://goo.gl/maps/TzpCxj5wBh52EiXg6). For more information, you can check my [blog](https://zivlog.io/).
+My name is Song-Zi (尚志) Vong, or you can simply call me Ziv. I currently live in [Shenzhen, China](https://goo.gl/maps/TzpCxj5wBh52EiXg6). For more information, you can check my [blog](https://zivlog.io/).
 
 ![](https://komarev.com/ghpvc/?username=zivhub)
 
